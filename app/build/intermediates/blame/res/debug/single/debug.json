@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotdetail.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\hotdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mined.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\mined.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_reserve.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\item_reserve.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_view.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\login_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yinlianpay.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\yinlianpay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xiaologo.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\xiaologo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_zhuanrang.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\dialog_zhuanrang.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tuokouxiu.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\tuokouxiu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quit.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\quit.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner01.jpg.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\banner01.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome_text.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\welcome_text.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_juchang.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\juchang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lvlogo.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\lvlogo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome_b.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\welcome_b.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_in.gif.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\in.gif"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mine.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\mine.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yingyuan.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\yingyuan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reserve.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\reserve.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reserve.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_reserve.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homed.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\homed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orderd.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\orderd.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yinyuexianchang.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\yinyuexianchang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_password.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\dialog_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_mine.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\password.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_versions.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\versions.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yxzw.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\yxzw.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_order.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpg.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_hot_item.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\hot_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_order.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\order.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_view.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\main_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zxzy.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\zxzy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wxzw.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\wxzw.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_goupiao.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\main_goupiao.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_to_be_shown_detail.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_to_be_shown_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_tobeshown_item.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\tobeshown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner02.jpg.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\banner02.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weixinpay.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\weixinpay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner03.jpg.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\banner03.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_order.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zhifubaopay.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\zhifubaopay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_yushoubtn.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\main_yushoubtn.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hot_detail.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_hot_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tbsdetail.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\tbsdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jiantou.png.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\drawable\\jiantou.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seat.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_seat.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MaoYan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\AndroidProject\\MaoYan\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]
